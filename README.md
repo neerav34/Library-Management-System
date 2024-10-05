@@ -11,30 +11,30 @@ Students can view book lists, search for books, and access general information w
 
 ### Librarian Functionalities:
 
-#### View Book List: 
+#### 1. View Book List: 
 The librarian can view the list of books available in the library across different branches.
 
-#### Search for a Book: 
+#### 2. Search for a Book: 
 Allows the librarian to search for specific books by title or ID, displaying book details such as the author, publication, price, and availability.
 
-#### Add/Delete Book: 
+#### 3. Add/Delete Book: 
 The librarian can add new books or delete existing books from the inventory.
 
-#### Issue Book: 
+#### 4. Issue Book: 
 The librarian can issue a book to a student, updating the book's availability and ensuring proper record keeping.
 
-#### Change Password: 
+#### 5. Change Password: 
 The librarian can change the password for system security, ensuring only authorized personnel have access.
 
 ### Student Functionalities:
 
-#### View Book List: 
+#### 1. View Book List: 
 Students can browse the list of available books, including relevant details.
 
-#### Search a Book: 
+#### 2. Search a Book: 
 Students can search for specific books by title or ID to check availability.
 
-#### Return to Login Menu: 
+#### 3. Return to Login Menu: 
 Students can easily switch back to the login screen or exit the system.
 
 ### Book Issuance and Return:
